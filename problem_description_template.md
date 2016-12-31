@@ -35,6 +35,19 @@ Problem title: e.g. Console Input-Output Form
 
 # Lessons Learned
 
+<table>
+  <tr>
+    <td> Date </th>
+    <td> Author </th>
+    <td> Description </th>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+</table>
+
 # Revision History
 <table>
   <tr>
