@@ -28,6 +28,11 @@ Problem title: e.g. Console Input-Output Form
   </th>
 </table>
 
+# Test Cases
+1.
+2.
+3.
+
 # Lessons Learned
 
 # Revision History
